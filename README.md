@@ -15,35 +15,8 @@ The goal is to uncover actionable business insights and demonstrate data analyti
 - Fields include: Date, Product, Category, Customer demographics, Sales channel, Revenue, Profit
 
 ## Key Insights
-1. **Top Products & Categories**  
-   - Seasonal spikes in sales observed in March.
-
-2. **Customer Demographics**  
-   - Majority of revenue comes from Maharastra States.  
-   - Repeat customers contribute 34.59 % of overall sales.
-
-3. **Profitability Trends**  
-   - High‑margin products differ from top‑selling ones.  
-   - Suggested focus on items with strong margins.
-
-4. **Inventory Management**  
-   - Fast‑moving vs slow‑moving products identified.  
-   - Recommendations for optimizing stock levels.
-
-5. **Marketing Opportunities**  
-   - Promotions boosted sales but reduced margins in some cases.  
-   - Cross‑selling opportunities found .
-
-## Business Recommendations
-- Target marketing campaigns toward Maharastra and Karnataka.  
-- Optimize inventory by reducing slow‑moving stock.  
-- Focus on high‑margin products for profitability.  
-- Leverage repeat customers with loyalty programs.
-
-## Dashboard Preview
-![Sales Dashboard](images/sales_dashboard.png)
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Vrinda-Store-Analysis.git
+- Women contribute 64 % of total sales; adults are the dominant age group.
+- Maharashtra and Karnataka lead in revenue generation.
+- Amazon, Myntra, and Flipkart together account for 80 % of total sales.
+- 92 % of orders are delivered successfully, showing strong operational efficiency.
+- Sales peaked in March, indicating seasonal buying trends.
