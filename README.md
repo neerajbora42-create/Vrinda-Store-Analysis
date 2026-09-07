@@ -16,12 +16,11 @@ The goal is to uncover actionable business insights and demonstrate data analyti
 
 ## Key Insights
 1. **Top Products & Categories**  
-   - Best‑selling items: *[Insert product names]*  
-   - Seasonal spikes in sales observed in *[Insert month/quarter]*.
+   - Seasonal spikes in sales observed in March.
 
 2. **Customer Demographics**  
-   - Majority of revenue comes from *[Insert age group / region]*.  
-   - Repeat customers contribute *[Insert %]* of overall sales.
+   - Majority of revenue comes from Maharastra States.  
+   - Repeat customers contribute 34.59 % of overall sales.
 
 3. **Profitability Trends**  
    - High‑margin products differ from top‑selling ones.  
@@ -33,10 +32,10 @@ The goal is to uncover actionable business insights and demonstrate data analyti
 
 5. **Marketing Opportunities**  
    - Promotions boosted sales but reduced margins in some cases.  
-   - Cross‑selling opportunities found (e.g., Product A + Product B).
+   - Cross‑selling opportunities found .
 
 ## Business Recommendations
-- Target marketing campaigns toward *[specific demographic]*.  
+- Target marketing campaigns toward Maharastra and Karnataka.  
 - Optimize inventory by reducing slow‑moving stock.  
 - Focus on high‑margin products for profitability.  
 - Leverage repeat customers with loyalty programs.
