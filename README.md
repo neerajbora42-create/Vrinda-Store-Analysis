@@ -23,4 +23,4 @@ The goal is to uncover actionable business insights and demonstrate data analyti
 
 
 ## Dashboard Overview
-![Vrinda Store Dashboard](images/Vrinda_Store_Dashboard.png)
+https://github.com/neerajbora42-create/Vrinda-Store-Analysis
