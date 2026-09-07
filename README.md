@@ -20,3 +20,7 @@ The goal is to uncover actionable business insights and demonstrate data analyti
 - Amazon, Myntra, and Flipkart together account for 80 % of total sales.
 - 92 % of orders are delivered successfully, showing strong operational efficiency.
 - Sales peaked in March, indicating seasonal buying trends.
+
+
+## Dashboard Overview
+![Vrinda Store Dashboard](images/Vrinda_Store_Dashboard.png)
