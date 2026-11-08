@@ -22,7 +22,7 @@ The goal is to uncover actionable business insights and demonstrate data analyti
 - Sales peaked in March, indicating seasonal buying trends.
 
 
-  ![Vrinda Store Analysis Project](Vrinda_Store_Dashbord_png)
+  ![Vrinda Store Analysis Project](Vrinda_Store_Dashbord_png.png)
 
 
 ## Dashboard Overview
